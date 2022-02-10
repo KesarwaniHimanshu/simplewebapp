@@ -65,11 +65,11 @@ div.info {
 
 #registerbtn, #loginbtn {
     background-color: rgb(71, 167, 231);
-    padding-left: 40px;
-    padding-right: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
     padding-top: 10px;
-    padding-bottom: 10px;
-    color : white;
+    padding-bottom: 100px;
+    color : red;
     font-weight: bold;
     border-color: rgb(71, 167, 231);
     border-radius: 2px;
